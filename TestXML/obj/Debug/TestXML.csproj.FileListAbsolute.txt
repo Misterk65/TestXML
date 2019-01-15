@@ -1,0 +1,20 @@
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\bin\Debug\TestXML.exe.config
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\bin\Debug\TestXML.exe
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\bin\Debug\TestXML.pdb
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.csprojAssemblyReference.cache
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.Form1.resources
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.Properties.Resources.resources
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.csproj.GenerateResource.cache
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.csproj.CoreCompileInputs.cache
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.exe
+C:\Users\peuckar.7LRATDE\Documents\visual studio 2017\Projects\TestXML\TestXML\obj\Debug\TestXML.pdb
+R:\Repos\TestXML\TestXML\bin\Debug\TestXML.exe.config
+R:\Repos\TestXML\TestXML\bin\Debug\TestXML.exe
+R:\Repos\TestXML\TestXML\bin\Debug\TestXML.pdb
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.csprojAssemblyReference.cache
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.Form1.resources
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.Properties.Resources.resources
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.csproj.GenerateResource.cache
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.csproj.CoreCompileInputs.cache
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.exe
+R:\Repos\TestXML\TestXML\obj\Debug\TestXML.pdb
